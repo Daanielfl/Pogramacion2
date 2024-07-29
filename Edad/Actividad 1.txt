@@ -1,0 +1,4 @@
+Actividades:
+1) Utilice la función input() y print() para pregunta el nombre del
+usuario. Imprima en pantalla "Hola (nombre)". Pregunte el año de 
+nacimiento y el año actual y opere para obtener la edad del usuario

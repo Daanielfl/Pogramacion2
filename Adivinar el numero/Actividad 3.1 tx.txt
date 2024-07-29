@@ -1,0 +1,12 @@
+Actividad 3.1)
+Añadir al programa 'Adivina el número' al menos 2 dificultades, por
+ejemplo: Fácil (1,20) con 6 intentos
+         Dificil(1,200) con 7 intentos
+
+Impotante: La dificultad debe elegirse al principio, modificar 
+variables y luego ejecutar el mismo código para el programa.
+
+Definir una función (def) para setear la dificultad
+
+fjcoronati@gmail.com
+.

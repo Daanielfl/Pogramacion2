@@ -1,0 +1,4 @@
+Actividad 3)Diseñe e implemente un programa que genere un número entre
+1 y 20. El jugador tiene 6 intentos para adivinar el número. En cada 
+intento indicar si el número secreto es mayor o menor que el ingresado
+si es igual el jugador ganó
